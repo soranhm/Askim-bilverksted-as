@@ -1,1 +1,3 @@
-# Askim_bilverksted_as
+# Askim Bilverksted As
+
+Enkel lagring og visualisering av kunder.
